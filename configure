@@ -120,6 +120,7 @@ add_engine toon "Toonstruck" yes
 add_engine touche "Touche: The Adventures of the Fifth Musketeer" yes
 add_engine tsage "Ringworld: Revenge Of The Patriarch" no
 add_engine tucker "Bud Tucker in Double Trouble" yes
+add_engine neverhood "The Neverhood" yes
 
 
 #
